@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a 20+ year IT professional who over the years have served in almost all roles within IT infrastructure management including local, campus, and wide area networking, traffic capture and protocol analysis, end user support, physical server farm/hardware management, private cloud/virtualization, information security, environmental control (HVAC/Power distribution), enterprise storage, disaster recovery, internet services/hosting, IT contracting, . . . The list goes on. The one IT specialization I have not yet waded into is the development space. That changes today!!
+
+I have done substantial research on this topic over the last 6 months and have chosen a training path to pursue a DevOps training path as I think it will compliment my infrastructure management experience.
+ 
